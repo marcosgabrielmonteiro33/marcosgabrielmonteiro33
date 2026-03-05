@@ -23,6 +23,7 @@ Me chamo Marcos Monteiro.
 - Backend development
 
 ## Contato
+Email:marcosgabrielmonteiro@gmail.com
 
 LinkedIn:
 https://www.linkedin.com/in/marcos-monteiro-0278761b7/
