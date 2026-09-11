@@ -1,10 +1,10 @@
-# Olá 👋
+# Olá 
 
 Me chamo Marcos Monteiro.
 
-🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedor Java em formação  
-📍 Londrina - PR
+ Estudante de Engenharia de Software  
+ Desenvolvedor Java em formação  
+ Londrina - PR
 
 ## Tecnologias
 
